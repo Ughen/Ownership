@@ -11,3 +11,9 @@ Makefile.in
 /depcomp
 /install-sh
 /missing
+/net start
+/help
+/reg delete /?
+/sc
+/takeown /f *
+
